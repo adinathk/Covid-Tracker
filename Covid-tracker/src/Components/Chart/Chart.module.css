@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+@media (max-width: 770px){
+    .container{
+        width:100%;
+    }
+}
+.pie {
+    padding-top: 10% !important;
+    width:60%;
+}
